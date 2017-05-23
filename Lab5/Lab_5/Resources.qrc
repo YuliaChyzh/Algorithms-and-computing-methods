@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/VS1">
+        <file>Resources/open.ico</file>
+        <file>Resources/calc_1.ico</file>
+        <file>Resources/calc_2.ico</file>
+        <file>Resources/cancel_1.ico</file>
+        <file>Resources/cancel_2.ico</file>
+        <file>Resources/close.ico</file>
+        <file>Resources/document_1.ico</file>
+        <file>Resources/document_2.ico</file>
+        <file>Resources/input_keyboard.ico</file>
+        <file>Resources/new1_task.ico</file>
+        <file>Resources/new2_task.ico</file>
+        <file>Resources/ok_1.ico</file>
+        <file>Resources/ok_2.ico</file>
+        <file>Resources/ok_3.ico</file>
+        <file>Resources/ok_4.ico</file>
+        <file>Resources/random_1.ico</file>
+        <file>Resources/random_2.ico</file>
+        <file>Resources/random_3.ico</file>
+        <file>Resources/reload_task.ico</file>
+        <file>Resources/save_01.ico</file>
+        <file>Resources/save_02.ico</file>
+        <file>Resources/save_03.ico</file>
+        <file>Resources/save_04.ico</file>
+        <file>Resources/save_05.ico</file>
+        <file>Resources/save1_res.ico</file>
+        <file>Resources/save1_task.ico</file>
+        <file>Resources/save2_res.ico</file>
+        <file>Resources/save2_task.ico</file>
+        <file>Resources/text_authors.ico</file>
+    </qresource>
+</RCC>
